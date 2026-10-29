@@ -1,0 +1,17 @@
+{
+  "best_model": "Gradient Boosting",
+  "features": [
+    "Cement",
+    "Blast Furnace Slag",
+    "Fly Ash",
+    "Water",
+    "Superplasticizer",
+    "Coarse Aggregate",
+    "Fine Aggregate",
+    "Age"
+  ],
+  "target": "Concrete compressive strength",
+  "target_unit": "MPa",
+  "random_state": 42,
+  "dataset": "UCI Concrete Compressive Strength (id 165)"
+}

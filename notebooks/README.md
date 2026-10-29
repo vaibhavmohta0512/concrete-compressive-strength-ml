@@ -1,0 +1,1 @@
+The notebook is a reproducible launcher for the full pipeline. Run cells from top to bottom. It installs no packages automatically; install `requirements.txt` first. The pipeline fetches UCI dataset 165 on first run and saves all charts, tables and the model under the project folder.

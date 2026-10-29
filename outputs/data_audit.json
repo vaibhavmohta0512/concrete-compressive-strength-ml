@@ -1,0 +1,112 @@
+{
+  "rows": 1030,
+  "columns": 9,
+  "features": 8,
+  "target": "Concrete compressive strength",
+  "missing_cells": 0,
+  "exact_duplicate_rows": 25,
+  "non_numeric_cells_after_conversion": 0,
+  "dtypes": {
+    "Cement": "float64",
+    "Blast Furnace Slag": "float64",
+    "Fly Ash": "float64",
+    "Water": "float64",
+    "Superplasticizer": "float64",
+    "Coarse Aggregate": "float64",
+    "Fine Aggregate": "float64",
+    "Age": "int64",
+    "Concrete compressive strength": "float64"
+  },
+  "descriptive_statistics": {
+    "Cement": {
+      "count": 1030.0,
+      "mean": 281.168,
+      "std": 104.506,
+      "min": 102.0,
+      "25%": 192.375,
+      "50%": 272.9,
+      "75%": 350.0,
+      "max": 540.0
+    },
+    "Blast Furnace Slag": {
+      "count": 1030.0,
+      "mean": 73.896,
+      "std": 86.279,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 22.0,
+      "75%": 142.95,
+      "max": 359.4
+    },
+    "Fly Ash": {
+      "count": 1030.0,
+      "mean": 54.188,
+      "std": 63.997,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 118.3,
+      "max": 200.1
+    },
+    "Water": {
+      "count": 1030.0,
+      "mean": 181.567,
+      "std": 21.354,
+      "min": 121.8,
+      "25%": 164.9,
+      "50%": 185.0,
+      "75%": 192.0,
+      "max": 247.0
+    },
+    "Superplasticizer": {
+      "count": 1030.0,
+      "mean": 6.205,
+      "std": 5.974,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 6.4,
+      "75%": 10.2,
+      "max": 32.2
+    },
+    "Coarse Aggregate": {
+      "count": 1030.0,
+      "mean": 972.919,
+      "std": 77.754,
+      "min": 801.0,
+      "25%": 932.0,
+      "50%": 968.0,
+      "75%": 1029.4,
+      "max": 1145.0
+    },
+    "Fine Aggregate": {
+      "count": 1030.0,
+      "mean": 773.58,
+      "std": 80.176,
+      "min": 594.0,
+      "25%": 730.95,
+      "50%": 779.5,
+      "75%": 824.0,
+      "max": 992.6
+    },
+    "Age": {
+      "count": 1030.0,
+      "mean": 45.662,
+      "std": 63.17,
+      "min": 1.0,
+      "25%": 7.0,
+      "50%": 28.0,
+      "75%": 56.0,
+      "max": 365.0
+    },
+    "Concrete compressive strength": {
+      "count": 1030.0,
+      "mean": 35.818,
+      "std": 16.706,
+      "min": 2.33,
+      "25%": 23.71,
+      "50%": 34.445,
+      "75%": 46.135,
+      "max": 82.6
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "best_params": {
+    "model__max_depth": 12,
+    "model__max_features": 0.8,
+    "model__min_samples_leaf": 2,
+    "model__min_samples_split": 4,
+    "model__n_estimators": 563
+  },
+  "best_cv_RMSE_MPa": 5.409020482927234,
+  "test_metrics": {
+    "MAE (MPa)": 3.9981264026854078,
+    "MSE (MPa\u00b2)": 31.52115001039529,
+    "RMSE (MPa)": 5.614369956673259,
+    "R\u00b2": 0.8776718025561254
+  },
+  "interpretation_note": "Test metrics are for one fixed holdout split. Compare baseline/tuned on the same test split."
+}
